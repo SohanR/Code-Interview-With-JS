@@ -45,3 +45,21 @@ O(a*b)
 - Data Structures
 - Function Call
 - Allocations
+
+
+
+# What are companies looking for ?
+
+- ## 1.Analytic Skills
+
+    How can you think through a problems and analyze things, and when you're coding during interview they want to hear your thought process and how you go from not knowing the answer to solving the problem.
+- ## 2.Coding SKills
+
+    Is your code clean well, organized readable ?
+- ## 3.Technical Skills
+
+    Did you just memorize things or do you understand the pros and cons of different solutions ?
+
+- ## 4.Communication Skills
+
+    Does your personality match their companies personality ? Can you communicate well with others with the team most likely you won't be working by yourself but with others.
