@@ -20,4 +20,19 @@ function reverse(str){
     return console.log(backwards.join(''));
 }
 
+
+// another way
+function reverse2(str){
+    return console.log(str.split('').reverse().join(''));
+}
+
+// modern way
+const reverse3 = str => console.log(str.split('').reverse().join(''));
+
+// es6 way
+const reverse4 = str => console.log([...str].reverse().join(''));
+
 reverse('i am sohan')
+reverse2('i am sohan')
+reverse3('i am sohan')
+reverse4('i am sohan')
