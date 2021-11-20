@@ -146,3 +146,12 @@ I also practice coding in few platform like [leetcode](https://github.com/SohanR
       is usually a divide-and-conquer approach — perform distributed processing of the data and only
       read certain chunks of the input from disk into memory, write the output back to disk and
       combine them later.
+
+# Hash Tables
+
+### Time complexity ot Hash Tables
+
+- insert => 0(1)
+- lookup => 0(1)
+- delete => 0(1)
+- search => 0(1)
