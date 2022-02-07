@@ -6,6 +6,15 @@ This repo is about practice Coding with most common topics thats asked by tech c
 
 I also practice coding in few platform like [leetcode](https://github.com/SohanR/LeetCode-solution) ,[hackerRank](https://github.com/SohanR/HackerRank) and [codeforces](https://github.com/SohanR/codeforces), i have separate repo for each platform.
 
+# Table of Content
+
+- ## 1. [Big O](#bigo)
+- ## 2. Array
+- ## 3. Hash-Tables
+- ## 4. Functions(#functions)
+
+<section id="bigo" />
+
 # Big O
 
 ## Type of Big Os
@@ -155,3 +164,9 @@ I also practice coding in few platform like [leetcode](https://github.com/SohanR
 - lookup => 0(1)
 - delete => 0(1)
 - search => 0(1)
+
+<br>
+
+<section id="functions" />
+
+# Functions
