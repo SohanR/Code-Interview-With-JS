@@ -12,6 +12,7 @@ I also practice coding in few platform like [leetcode](https://github.com/SohanR
 - ## 2. Array
 - ## 3. Hash-Tables
 - ## 4. Functions(#functions)
+- ## 5. Linked List(#linkedlist)
 
 <section id="bigo" />
 
@@ -170,3 +171,25 @@ I also practice coding in few platform like [leetcode](https://github.com/SohanR
 <section id="functions" />
 
 # Functions
+
+<br>
+<br>
+
+<section id="linkedlist" />
+
+# Linked List
+
+### What is Linked List ???
+
+As a name suggest its a list that is linked.
+
+    const basket = ["apples", "grapes", "pears"];
+
+
+    linked list:  apple --> grapes --> pears
+
+
+    apples
+    8949 -->  grapes
+              8741  --> pears
+                        372 --> null
