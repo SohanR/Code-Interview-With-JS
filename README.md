@@ -11,8 +11,8 @@ I also practice coding in few platform like [leetcode](https://github.com/SohanR
 - ## 1. [Big O](#bigo)
 - ## 2. Array
 - ## 3. Hash-Tables
-- ## 4. Functions(#functions)
-- ## 5. Linked List(#linkedlist)
+- ## 4. [Functions](#functions)
+- ## 5. [Linked List](#linkedlist)
 
 <section id="bigo" />
 
